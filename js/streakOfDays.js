@@ -16,9 +16,3 @@ const getDayStreak = (startDate) => {
     return streak;
   };
   
-  // Get HTML element
-  // const elem = document.querySelector('time');
-  
-  // Set to HTML element
-  // elem.textContent = daysWithoutTikTok;
-  // elem.setAttribute("datetime", daysWithoutTikTok );

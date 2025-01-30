@@ -15,11 +15,3 @@ const calculateAge = (birthDate) => {
 
   return age;
 };
-
-// Unit test
-// Get HTML element
-// const elem = document.querySelector('time');
-
-// Set to HTML element
-// elem.textContent = ageOfSwoop;
-// elem.setAttribute("datetime", ageOfSwoop );

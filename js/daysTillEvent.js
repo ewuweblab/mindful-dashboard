@@ -16,11 +16,3 @@ const getDaysUntilEvent = (eventDate) => {
 
   return daysUntil;
 };
-
-// Get HTML element
-// const elem = document.querySelector('time');
-
-// Set to HTML element
-// elem.textContent = daysUntilChristmas;
-// elem.setAttribute("datetime", christmasDay );
-
