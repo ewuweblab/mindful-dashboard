@@ -20,7 +20,7 @@ const theClockApp = () => {
     // Check-Check: Is the data correct?
     // console.log(gotHours, gotMinutes, gotSeconds);
   
-    /************
+/************
   Format Data
   ************/
     // Get AM or PM
